@@ -9,8 +9,8 @@ export default function page() {
       <div className='xl:w-1/2 md:w-4/6 lg:w-3/5 flex items-center flex-col gap-20 justify-center px-10'>
         <Presentation />
         <AboutMe />
-        <Technologies />
         <Projects />
+        <Technologies />
       </div>
     </div>
   )
