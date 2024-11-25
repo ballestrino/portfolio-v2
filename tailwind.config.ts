@@ -57,7 +57,7 @@ export default {
         sm: 'calc(var(--radius) - 4px)'
       },
       textColor: {
-        first: '#32A9BE',
+        first: '#0077b6',
         Me: '#278190'
       }
     }

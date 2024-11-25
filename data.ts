@@ -6,17 +6,28 @@ export interface Project {
 }
 
 export const projects = [
+  // {
+  //   title: 'E-commerce + Login + Admin Panel',
+  //   description:
+  //     'E-commerce website made with NextJs, shadCn, postgreSQL and Mercado Pago',
+  //   images: [
+  //     '/projects/ecommerce/ecommerce-0.webp',
+  //     '/projects/ecommerce/ecommerce-1.webp',
+  //     '/projects/ecommerce/ecommerce-2.webp',
+  //     '/projects/ecommerce/ecommerce-3.webp'
+  //   ],
+  //   href: ''
+  // },
   {
-    title: 'E-commerce',
+    title: 'InnovaWave',
     description:
-      'E-commerce website made with NextJs, shadCn, postgreSQL and Mercado Pago',
+      'Website for my personal brand made with NextJs, tailwind and ShadCn',
     images: [
-      '/projects/ecommerce/ecommerce-0.webp',
-      '/projects/ecommerce/ecommerce-1.webp',
-      '/projects/ecommerce/ecommerce-2.webp',
-      '/projects/ecommerce/ecommerce-3.webp'
+      '/projects/innovawave/iw-1.webp',
+      '/projects/innovawave/iw-2.webp',
+      '/projects/innovawave/iw-3.webp'
     ],
-    href: ''
+    href: 'https://innovawaveuruguay.com/'
   },
   {
     title: 'Cleaning Company Website',
@@ -29,11 +40,12 @@ export const projects = [
     ],
     href: 'https://www.eltrebollimpieza.com/'
   },
+
   {
     title: 'Todo App + Drag and Drop',
     description:
       'Todo app with drag and drop functionality made with Vite, React, Tailwind and dndKit',
     images: ['/projects/todo/todo-app-1.webp'],
-    href: ''
+    href: 'https://todo-6p5ll2mvz-nacho3l3s-projects.vercel.app/'
   }
 ]

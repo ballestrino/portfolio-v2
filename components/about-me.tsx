@@ -4,7 +4,7 @@ export default function AboutMe() {
   return (
     <div className='flex flex-col items-center justify-center gap-8 md:w-full'>
       <h2 className='text-first text-4xl sm:text-5xl md:text-6xl font-semibold'>
-        About <span className='text-Me'>Me</span>
+        About Me
       </h2>
       <p className='md:text-lg'>
         I&apos;m a passionate 18-year-old developer from Montevideo, Uruguay.
