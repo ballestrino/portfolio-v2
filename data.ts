@@ -45,7 +45,10 @@ export const projects = [
     title: 'Todo App + Drag and Drop',
     description:
       'Todo app with drag and drop functionality made with Vite, React, Tailwind and dndKit',
-    images: ['/projects/todo/todo-app-1.webp'],
-    href: 'https://todo-6p5ll2mvz-nacho3l3s-projects.vercel.app/'
+    images: [
+      '/projects/todo/todo-app-1.webp',
+      '/projects/todo/todo-app-2.webp'
+    ],
+    href: 'https://todo-app-taupe-zeta.vercel.app/'
   }
 ]
